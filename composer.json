@@ -1,0 +1,15 @@
+{
+    "name": "kilyakus/fonts",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kilyakus",
+            "email": "aleksandr.kilyakov@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+}
