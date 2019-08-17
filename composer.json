@@ -8,13 +8,17 @@
             "email": "aleksandr.kilyakov@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
     "require": {
-        "yiisoft/yii2": "~2.0.0"
+        "yiisoft/yii2": ">=2.0.0"
     },
     "autoload": {
         "psr-4": {
             "kilyakus\\fonts\\": "src"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1"
         }
     }
 }
