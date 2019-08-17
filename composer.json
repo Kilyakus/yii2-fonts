@@ -15,10 +15,5 @@
         "psr-4": {
             "kilyakus\\fonts\\": "src"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "-dev"
-        }
     }
 }
