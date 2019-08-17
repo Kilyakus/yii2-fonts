@@ -1,6 +1,6 @@
 {
-    "name": "kilyakus/fonts",
-    "type": "library",
+    "name": "kilyakus/yii2-fonts",
+    "type": "yii2-library",
     "license": "MIT",
     "authors": [
         {
@@ -12,4 +12,9 @@
     "require": {
         "yiisoft/yii2": "~2.0.0"
     },
+    "autoload": {
+        "psr-4": {
+            "kilyakus\\fonts\\": "src"
+        }
+    }
 }

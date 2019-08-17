@@ -1,5 +1,5 @@
 <?php
-namespace bin\admin\assets;
+namespace kilyakus\fonts;
 
 class FontsAsset extends \yii\web\AssetBundle
 {
