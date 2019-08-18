@@ -1,7 +1,7 @@
 <?php
 namespace kilyakus\fonts;
 
-class FontsAsset extends \yii\web\AssetBundle
+class FontAsset extends \yii\web\AssetBundle
 {
     public function init()
     {
