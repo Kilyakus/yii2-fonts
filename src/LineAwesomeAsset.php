@@ -5,7 +5,7 @@ class LineAwesomeAsset extends \yii\web\AssetBundle
 {
     public function init()
     {
-        $this->sourcePath = __DIR__ . '/assets/vendors/line-awesome';
+        $this->sourcePath = __DIR__ . '/vendors/line-awesome';
     }
     public $css = [
         'css/line-awesome.css',
