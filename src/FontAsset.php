@@ -11,7 +11,8 @@ class FontAsset extends \yii\web\AssetBundle
         'css/fonts.css',
     ];
     public $depends = [
-        'kilyakus\fonts\FontAwesomeAsset'
+        'kilyakus\fonts\FontAwesomeAsset',
+        'kilyakus\fonts\LineAwesomeAsset'
     ];
     public $jsOptions = array(
         'position' => \yii\web\View::POS_HEAD
