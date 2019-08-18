@@ -11,7 +11,7 @@
     "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": ">=2.0.0",
-        "fortawesome/font-awesome": "dev-master"
+        "bower-asset/font-awesome": "dev-master"
     },
     "autoload": {
         "psr-4": {
