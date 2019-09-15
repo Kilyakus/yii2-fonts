@@ -13,7 +13,7 @@ class FontAsset extends \yii\web\AssetBundle
     public $depends = [
         'kilyakus\fonts\FontAwesomeAsset',
         'kilyakus\fonts\LineAwesomeAsset',
-        'kilyakus\fonts\FlatIconsAsset'
+        'kilyakus\flaticons\FlatIconsAsset'
     ];
     public $jsOptions = array(
         'position' => \yii\web\View::POS_HEAD

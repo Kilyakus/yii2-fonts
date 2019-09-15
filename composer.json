@@ -11,7 +11,7 @@
     "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": ">=2.0.0",
-        "bower-asset/font-awesome": "dev-master"
+        "kilyakus/yii2-font-flaticons": "*"
     },
     "autoload": {
         "psr-4": {
