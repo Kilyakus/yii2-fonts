@@ -12,7 +12,7 @@ class FontAsset extends \yii\web\AssetBundle
     ];
     public $depends = [
         'kilyakus\fontawesome\FontAwesomeAsset',
-        'kilyakus\fonts\LineAwesomeAsset',
+        'kilyakus\lineawesome\LineAwesomeAsset',
         'kilyakus\flaticons\FlatIconsAsset'
     ];
     public $jsOptions = array(
