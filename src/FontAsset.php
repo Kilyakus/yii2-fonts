@@ -11,7 +11,7 @@ class FontAsset extends \yii\web\AssetBundle
         'css/fonts.css',
     ];
     public $depends = [
-        'kilyakus\fonts\FontAwesomeAsset',
+        'kilyakus\fontawesome\FontAwesomeAsset',
         'kilyakus\fonts\LineAwesomeAsset',
         'kilyakus\flaticons\FlatIconsAsset'
     ];

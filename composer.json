@@ -8,9 +8,9 @@
             "email": "aleksandr.kilyakov@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": ">=2.0.0",
+        "kilyakus/yii2-font-fontawesome": "*",
         "kilyakus/yii2-font-flaticons": "*"
     },
     "autoload": {
